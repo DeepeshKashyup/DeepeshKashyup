@@ -12,8 +12,8 @@ and LLM cost optimization frameworks — on Google Cloud.
 ## Tech Stack
 **AI/ML:** Vertex AI · Gemini · LangChain · ChromaDB · RAG
 **Engineering:** FastAPI · Python · Docker · Pytest
-**Cloud:** GCP · (add AWS/Azure if applicable)
-**Data:** Pandas · NumPy · (add Spark/dbt/Airflow if applicable at work)
+**Cloud:** GCP
+**Data:** Pandas · NumPy
 
 ## Recent Projects
 - [a2a-ai-assistant](link) — Multi-agent RAG system using Google's A2A protocol
