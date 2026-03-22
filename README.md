@@ -19,4 +19,4 @@ and LLM cost optimization frameworks — on Google Cloud.
 - [a2a-ai-assistant](link) — Multi-agent RAG system using Google's A2A protocol
 - [smart-agent-router](link) — Cost-optimized LLM routing with 70% cost reduction
 
-📍 Bentonville, AR | 💼 Open to senior/staff engineering roles
+📍 Bentonville, AR
