@@ -23,8 +23,4 @@ and LLM cost optimization frameworks — on Google Cloud.
 **Cloud:** GCP
 **Data:** Pandas · NumPy
 
-## Recent Projects
-- [a2a-ai-assistant](link) — Multi-agent RAG system using Google's A2A protocol
-- [smart-agent-router](link) — Cost-optimized LLM routing with 70% cost reduction
-
 📍 Bentonville, AR
